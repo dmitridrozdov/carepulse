@@ -14,6 +14,7 @@
     "@radix-ui/react-label": "^2.1.0",
     "@radix-ui/react-select": "^2.1.2",
     "@radix-ui/react-slot": "^1.1.0",
+    "appwrite": "^16.1.0",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "lucide-react": "^0.462.0",
@@ -30,7 +31,7 @@
     "zod": "^3.23.8"
   },
   "devDependencies": {
-    "@types/node": "^20",
+    "@types/node": "^20.17.12",
     "@types/react": "^18",
     "@types/react-dom": "^18",
     "eslint": "^8",
